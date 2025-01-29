@@ -1,0 +1,13 @@
+.newClass{
+    width:200px;
+}
+.formFootnote{
+    border: solid black 1px;
+}
+.formHeader{
+    border: solid black 1px;
+}
+.formContent{
+    border-left:solid black 1px;
+    border-right:solid black 1px;
+}
